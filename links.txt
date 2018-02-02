@@ -1,0 +1,3 @@
+http://www.instructables.com/id/Cheap-2-Way-Bluetooth-Connection-Between-Arduino-a/step4/Set-up-your-PC-for-serial-Bluetooth-communication/
+
+http://www.instructables.com/id/Andruino-A-Simple-2-Way-Bluetooth-based-Android-C/
