@@ -1,0 +1,11 @@
+# Intelligent-Robot---Arduino-Uno-R3---Matlab
+
+INTELLIGENT ROBOT
+
+Interaction with its environment is a key requisite for a robot. Especially the ability to recognize and manipulate objects is crucial to successfully work in natural environments. The industry is moving from current state of automation to Robotization, to increase productivity and to deliver uniform quality. The industrial robots of today may not look the least bit like a human being although all the research is directed to provide more and more humanlike features and super-human capabilities in these. 
+
+This project describes the design and implementation of robot control systems that initially feed the given environment into its memory. When the robot visit the same environment again it scans the environment using sensor- camera. If robot detects some new object it scans the object. It then perform image processing using MATLAB to determine whether the scanned object is useful or waste. MATLAB is used for image processing which provides for forensic image processing. If it results in a waste object then the robot pick up that object and throws it into the dustbin. And if the scanned object is useful then it will pick the object and place the object to a particular location. In general there are many factors like temperature, and environmental factors which will cause sensors a wrong information or errors. For better efficiency of the scanned object the system was designed using the Canny Edge detection algorithm along with segmentation with only one threshold.
+ 
+This is an intelligent robot for determining the property of an object – (useful/waste) which can be useful in cleaning the area. We have selected the pick and place robots for this particular process due to the following reasons: - Using of Human labour for the picking and placing of the objects will consume more time. Moreover the work can be done easily using a single pick and place robot, which is used for both picking and placing.
+
+For example:  It can be used in recycling waste where a robot will detect the useful materials from the waste
